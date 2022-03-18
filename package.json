@@ -1,0 +1,14 @@
+{
+  "name": "multi-date",
+  "version": "1.0.0",
+  "description": "Its is the ultimate date formatter!",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "date"
+  ],
+  "author": "bdbose",
+  "license": "ISC"
+}
