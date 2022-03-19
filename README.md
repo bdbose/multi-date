@@ -14,18 +14,16 @@ npm install --save multi-date
 #### Import
 
 ```jsx
-import {formate,customDates} from 'multi-date';
+import { formate, customDates } from 'multi-date';
 // or
 const { format } = require('multi-date');
 ```
 
 ### Doc
 
-
 `format` Format date to any string format eg. 'DD-MM-YYYY','DD/MM/YYYY'
 
 ```jsx
-
 const { format } = require('multi-date');
 
 const d1 = format(new Date(), 'DD-MM-YYYY');
@@ -39,7 +37,7 @@ console.log(d3); //  2022/03/19
 console.log(d4); //  19-03
 ```
 
-`customDates` Add or Substract number of days, month or year 
+`customDates` Add or Substract number of days, month or year
 
 ```jsx
 const { customDates } = require('multi-date');

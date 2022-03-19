@@ -1,13 +1,22 @@
 {
   "name": "multi-date",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Its is the ultimate date formatter!",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
   },
   "keywords": [
-    "date"
+    "multi-date",
+    "moment",
+    "date",
+    "time",
+    "parse",
+    "format",
+    "validate",
+    "i18n",
+    "l10n",
+    "ender"
   ],
   "author": "bdbose",
   "license": "ISC"
