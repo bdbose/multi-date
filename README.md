@@ -1,4 +1,4 @@
-## Multi-Date a all in one Dates Library for Javascript.
+## Multi-Date an all in one Dates Library for Javascript.
 
 Multi-date have various functions to make your date handling easy. Please star the repo https://github.com/bdbose/multi-date
 
